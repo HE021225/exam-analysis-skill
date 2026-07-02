@@ -25,6 +25,11 @@
 10. **分析说明** - 局限性说明与基准依据
 11. **自查与复核报告** - 迭代式自检循环（确保零缺陷）
 <img width="751" height="604" alt="image" src="https://github.com/user-attachments/assets/40115157-faa7-4294-a4f9-5f0d23637d56" />
+<img width="736" height="1098" alt="image" src="https://github.com/user-attachments/assets/ce051ebb-6012-47dd-a3cf-571d96027b3f" />
+<img width="776" height="672" alt="image" src="https://github.com/user-attachments/assets/3f639dee-833a-434b-93d2-f203ade5bb81" />
+<img width="766" height="714" alt="image" src="https://github.com/user-attachments/assets/5f45aef0-d0d0-4a14-a1f2-eafb45468b0c" />
+<img width="782" height="1092" alt="image" src="https://github.com/user-attachments/assets/493a8188-6153-43cd-a7e4-5d2226f879e9" />
+
 
 #### 多卷交叉分析（5个模块）
 12. **知识点频率与权重汇总** - 跨卷知识点统计与排名
