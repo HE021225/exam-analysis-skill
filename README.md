@@ -21,15 +21,16 @@ v3.1版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files
 
 **高等教育阶段分析 - 支持大学及以上学历的考试试卷分析：**（专业课程考试、考研初试、考研复试、期末考试、期中考试、专业资格认证考试）
 
-## 示例如下（以下均为v3.1版本先前版本示例）：
+## 示例如下：
 
+### 以下均为v3.1版本先前版本示例
 [电路-考研-试卷分析报告-2026-07-02.pdf](https://github.com/user-attachments/files/29580664/-.-.-2026-07-02.pdf)（腾讯Marvis生成）（验证初代版本是否达到核心目的示例）
 
 [电路两套试卷深度分析与备考指导报告.pdf](https://github.com/user-attachments/files/29641035/default.pdf)（Claude-Sonnet-5-Max生成）（验证多文件、其他agent是否兼容示例）
 
 [数学-考研数学二-试卷分析报告-修正版-2026-07-03.pdf](https://github.com/user-attachments/files/29640122/-.-.-.-2026-07-03.pdf)（腾讯Marvis生成）（验证多教材、多文件示例）
 
-**v3.1及其以后版本示例**
+### v3.1及其以后版本示例
 
 [电路-考研模拟月考-试卷分析报告-2026-07-03.pdf](https://github.com/user-attachments/files/29640534/-.-.-2026-07-03.pdf)（腾讯Marvis生成）（验证复检机制是否生效示例）
 
